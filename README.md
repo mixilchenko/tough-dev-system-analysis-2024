@@ -4,4 +4,4 @@ Repository for documents, schemes, etc that [Mikhail Ilchenko](https://github.co
 
 ## Zero homework
 
-You could see [MCF v0](MCF/Description%20v0.md) document with the description about the system we are trying to design and [scheme v0](MCF/scheme%20v0.jpeg) with the main entities.
+You could see [MCF v0](MCF/v0/Description.md) document with the description about the system we are trying to design and [scheme v0](MCF/v0/scheme.jpeg) with the main entities.
